@@ -165,6 +165,9 @@ select {
     border-radius: 4px;
 }
 
+input[type="tel"]{
+    margin: 1px;
+}
 /* Style buttons */
 input[type="button"] {
     background-color: #007bff;

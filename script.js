@@ -1,14 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     const span = document.getElementsByClassName("iconify");
-    const classes = span.classList;
-    const currencyToggle = document.getElementById("currencyToggle");
-    const currencyLabel = document.getElementById("currencyU");
-    const selectedOption = document.querySelector(".selectedOption");
-    const selectBox = document.querySelector(".select-box");
-    const searchBox = document.querySelector(".search-box");
-    const inputBox = document.querySelector('input[type="tel"]');
-
-    const selectedLanguage = document.getElementById("language");
 
 
     const countries = [
